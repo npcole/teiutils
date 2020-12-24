@@ -1,0 +1,15 @@
+# TEI Utils 
+
+Currently just contains a script to list the currently assigned tickets for the
+main TEI archives.
+
+To install, using a python3.8+ environment:
+
+python setup.py install
+
+To use:
+
+tei_current_assignments.py
+
+
+(Created entirely in Vim. I just wanted Syd to know that.)

@@ -1,0 +1,9 @@
+certifi
+chardet
+Deprecated
+idna
+PyGithub
+PyJWT
+requests
+urllib3
+wrapt

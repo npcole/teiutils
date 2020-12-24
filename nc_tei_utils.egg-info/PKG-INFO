@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: nc-tei-utils
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Nicholas P. S. Cole
+Author-email: nicholas.cole@history.ox.ac.uk
+License: UNKNOWN
+Description: # TEI Utils 
+        
+        Currently just contains a script to list the currently assigned tickets for the
+        main TEI archives.
+        
+        To install, using a python3.8+ environment:
+        
+        python setup.py install
+        
+        To use:
+        
+        tei_current_assignments.py
+        
+        
+        (Created entirely in Vim. I just wanted Syd to know that.)
+        
+Platform: UNKNOWN

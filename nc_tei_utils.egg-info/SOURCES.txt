@@ -1,0 +1,9 @@
+README
+setup.py
+bin/tei_current_assignments.py
+nc_tei_utils.egg-info/PKG-INFO
+nc_tei_utils.egg-info/SOURCES.txt
+nc_tei_utils.egg-info/dependency_links.txt
+nc_tei_utils.egg-info/requires.txt
+nc_tei_utils.egg-info/top_level.txt
+ncteiutils/__init__.py
